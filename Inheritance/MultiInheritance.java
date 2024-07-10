@@ -2,7 +2,7 @@ package Inheritance;
 
 class A{
 
-    int 
+    int age;
 }
 
 public class MultiInheritance {
